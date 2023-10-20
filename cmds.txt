@@ -8,5 +8,5 @@ arp -a |arp.exe -a |nwarp |ARP table
 netstat -a |netstat.exe -a |netstat |network connections
 mount |net.exe share |diskinfo |mounted disks
 ps -elf |tasklist.exe |processes |running process
-env |set.exe |envvariables |environment variables
+env |set |envvariables |environment variables
 crontab -l |schtasks.exe |scheduledjobs |scheduled jobs
